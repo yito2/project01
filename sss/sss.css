@@ -1,6 +1,6 @@
 .sss {
 	height: 0;
-	margin: 0; 
+	margin: 0;
 	padding: 0;
 	position: relative;
 	display: block;
@@ -48,4 +48,10 @@
 
 .sssprev:hover, .sssnext:hover {
 	cursor: pointer;
+}
+
+.hero-container {
+	margin: 0 auto;
+	width: 100%;
+	max-width:600px;
 }
