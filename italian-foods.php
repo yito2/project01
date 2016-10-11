@@ -1,21 +1,12 @@
-<!doctype html>
-<html lang="en">
-<head>
- 	<meta charset="utf-8">
-	<title>Italian Foods</title>
-</head>
+<?php include "inc/html-top.inc"; ?>
+
 <body>
     <header>
     	<h1>Regional Foods</h1>
     </header>
-	<nav>
-		<ul>
-				<li><a	href="index.html">Home</a></li>
-				<li><a	href="north-american-foods.html">North American</a></li>
-				<li><a	href="chinese-foods.html">Chinese</a></li>
-				<li><a	href="italian-foods.html">Italian</a></li>
-		</ul>
-	</nav>
+	
+	<?php include "inc/nav.inc"; ?>
+	
 	<article>
 		<h2>Italian Foods</h2>
 		<h3>History</h3>
@@ -74,7 +65,8 @@
 			4. Arrange half of soaked ladyfingers in bottom of a 7x11 inch dish. Spread half of mascarpone mixture over ladyfingers, then half of whipped cream over that. Repeat layers and sprinkle with cocoa. Cover and refrigerate 4 to 6 hours, until set.
 		</p>
 	</aside>
-	<footer>
+
+	<p>
 		      <h3>Citations</h3>
                   <ul>
                          <li>C., L., A., Mash, L., C., S., . . . D. (2006). Tiramisu II Recipe. Retrieved October 09, 2016, from<a href="https://en.wikipedia.org/wiki/Tiramisu">https://en.wikipedia.org/wiki/Tiramisu</a> </li>
@@ -89,10 +81,11 @@
 
                          <li>Tiramisu. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Tiramisu">https://en.wikipedia.org/wiki/Tiramisu</a> </li>
 
-
                  </ul>	
-              <p>Webpage created by Miranda Lakis, Luka Sherman, Meichuanzi Shi, Lerong Wang and Tiffany White</p>	
-	</footer>
+           
+	</p>
+
+	<?php include "inc/footer.inc"; ?>
 
 </body>
 </html>

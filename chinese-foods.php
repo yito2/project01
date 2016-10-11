@@ -1,21 +1,11 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Chinese Foods</title>
-</head>
+<?php include "inc/html-top.inc"; ?>
+
 <body>
     <header>
     	<h1>Regional Foods</h1>
     </header>
-	<nav>
-		<ul>
-				<li><a	href="index.html">Home</a></li>
-				<li><a	href="north-american-foods.html">North American</a></li>
-				<li><a	href="chinese-foods.html">Chinese</a></li>
-				<li><a	href="italian-foods.html">Italian</a></li>
-		</ul>
-	</nav>
+    
+	<?php include "inc/nav.inc"; ?>
 
 	<article>
 		<h2>Chinese Foods</h2>
@@ -67,7 +57,7 @@
 		</p>
 		</aside>
 
-	<footer>
+	<p>
               <h3>Citations</h3>
                   <ul>
                          <li>Chinese cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_cuisine">https://en.wikipedia.org/wiki/Chinese_cuisine</a></li>
@@ -75,8 +65,10 @@
                          <li>Chinese regional cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_regional_cuisine">https://en.wikipedia.org/wiki/Chinese_regional_cuisine</a> </li>
 
                  </ul>	
-              <p>Webpage created by Miranda Lakis, Luka Sherman, Meichuanzi Shi, Lerong Wang and Tiffany White</p>	
-	</footer>
+              	
+	</p>
+
+	<?php include "inc/footer.inc"; ?>
 
 </body>
 </html>
