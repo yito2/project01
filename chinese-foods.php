@@ -9,10 +9,12 @@
 
 	<article>
 		<h2>Chinese Foods</h2>
+
 		<h3>History</h3>
 		<p>
 			Chinese society greatly valued gastronomy and developed an extensive study of the subject based on its traditional medical beliefs. Chinese culture initially centered around the North China Plain. The first domesticated crops seem to have been the foxtail and broomcorn varieties of millet, while rice was cultivated in the south. By 2000 BC, wheat had arrived from western Asia. However, these grains were typically served as warm noodle soups instead of baked into bread as in Europe. Nobles hunted various wild game and consumed mutton, pork, dog, and beef as these animals were domesticated. Grain was stored against famine and flood and meat was preserved with salt, vinegar, curing, and fermenting. The flavor of the meat was enhanced by cooking it in animal fats though this practice was mostly restricted to the wealthy.[4]
 		</p>
+
 		<h3>Regional Cuisines</h3>
 		<figure>
 			<img src="images/chinesefood.jpg" alt="chinese food">
@@ -34,37 +36,8 @@
 		<p>
 			Based on the raw materials and ingredients used, the method of preparation and cultural differences, a variety of foods with different flavors and textures are prepared in different regions of the country. Many traditional regional cuisines rely on basic methods of preservation such as drying, salting, pickling and fermentation.[27]
 		</p>
+	</article>
 
-		<article>
-			<h2>Chinese Foods</h2>
-			<h3>History</h3>
-			<p>
-				Chinese society greatly valued gastronomy and developed an extensive study of the subject based on its traditional medical beliefs. Chinese culture initially centered around the North China Plain. The first domesticated crops seem to have been the foxtail and broomcorn varieties of millet, while rice was cultivated in the south. By 2000 BC, wheat had arrived from western Asia. However, these grains were typically served as warm noodle soups instead of baked into bread as in Europe. Nobles hunted various wild game and consumed mutton, pork, dog, and beef as these animals were domesticated. Grain was stored against famine and flood and meat was preserved with salt, vinegar, curing, and fermenting. The flavor of the meat was enhanced by cooking it in animal fats though this practice was mostly restricted to the wealthy.[4]
-			</p>
-
-			<h3>Regional Cuisines</h3>
-			<figure>
-				<img src="images/updated-noodles.jpg" alt="noodles">
-				<figcaption>Chinese Food</figcaption>
-			</figure>
-			<p>
-			    A number of different styles contribute to Chinese cuisine but perhaps the best known and most influential are Cantonese cuisine, Shandong cuisine, Jiangsu cuisine (specifically Huaiyang cuisine) and Sichuan cuisine.[23][24][25] These styles are distinctive from one another due to factors such as availability of resources, climate, geography, history, cooking techniques and lifestyle.[26] One style may favour the use of lots of garlic and shallots over lots of chilli and spices, while another may favour preparing seafood over other meats and fowl.
-			</p>
-			<p>
-			    Jiangsu cuisine favours cooking techniques such as braising and stewing, while Sichuan cuisine employs baking, just to name a few.[23] Hairy crab is a highly sought after local delicacy in Shanghai, as it can be found in lakes within the region. Peking duck and dim-sum are other popular dishes well known outside of China.[23] 
-				
-			</p>
-			<p>
-				Cantonese cuisine，Dim sum, Cantonese term for small hearty dishes.[1] These bite-sized portions are prepared using traditional cooking methods such as frying, steaming, stewing and baking. It is designed so that one person may taste a variety of different dishes. Some of these may include rice rolls, lotus leaf rice, turnip cakes, buns, jiaozi-style dumplings, stir-fried green vegetables, congee porridge, soups, etc. The Cantonese style of dining, yum cha, combines the variety of dim sum dishes with the drinking of tea. Yum cha literally means 'drink tea'.[1]
-			</p>
-			<p>
-				Sichuan (spelled Szechuan in the once-common postal romanization), is a style of Chinese cuisine originating from the Sichuan Province of southwestern China famed for bold flavors, particularly the pungency and spiciness resulting from liberal use of garlic and chili peppers, as well as the unique flavor of the Sichuan peppercorn and Facing heaven pepper. Peanuts, sesame paste and ginger are also prominent ingredients in this style.
-			</p>
-			<p>
-				Based on the raw materials and ingredients used, the method of preparation and cultural differences, a variety of foods with different flavors and textures are prepared in different regions of the country. Many traditional regional cuisines rely on basic methods of preservation such as drying, salting, pickling and fermentation.[27]
-			</p>
-
-        </article>
         <aside>
 		<h3>Staple Foods</h3>
 		<figure>
