@@ -57,9 +57,9 @@
 					<tr>
 					
 					
-					<td> Luka Sherman</td>
-
 					<td> The JavaScript Coder </td>
+
+					<td> Luka Sherman </td>
 
 					<td> Create the homepage slideshow and responsible for implementing all JavaScript functionality on the website. </td>
 
