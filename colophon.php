@@ -1,21 +1,14 @@
-<!doctype html>
-<html lang="en">
-<head>
-		<meta charset="utf-8">
-		<title>Project 1- Regional Foods</title>
-</head>
+<?php include "inc/html-top.inc"; ?>
+
 <body>
-        <header>
-        	<h1>Regional Foods</h1>
-        </header>
-		<nav>
-			<ul>
-				<li><a	href="index.html">Home</a></li>
-				<li><a	href="north-american-foods.html">North American</a></li>
-				<li><a	href="chinese-foods.html">Chinese</a></li>
-				<li><a	href="italian-foods.html">Italian</a></li>
-			</ul>
-		</nav>
+    <header>
+    	<h1>Regional Foods</h1>
+    </header>
+    
+	<?php include "inc/nav.inc"; ?>
+=======
+<!doctype html>
+
 		<article>
 			<h2>Team Roles and Responsibilities</h2>
 			<h3>The Architect: Miranda Lakis</h3>
@@ -84,7 +77,7 @@
                  </ul>
 
 
-
+	<?php include "inc/footer.inc"; ?>
 
 		</article>
 </body>
