@@ -6,8 +6,6 @@
     </header>
     
 	<?php include "inc/nav.inc"; ?>
-=======
-<!doctype html>
 
 		<article>
 			<h2>Team Roles and Responsibilities</h2>
