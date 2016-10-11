@@ -67,7 +67,7 @@
         <aside>
 		<h3>Staple Foods</h3>
 		<figure>
-			<img src="images/noodle.jpg" alt="noodle">
+			<img src="images/updated-noodles.jpg" alt="noodles">
 			<figcaption>Chinese Dan Dan Noodle</figcaption>
 		</figure>
 		<p>
