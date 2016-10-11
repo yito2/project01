@@ -8,6 +8,15 @@
 	
 		<?php include "inc/nav.inc"; ?>
 
+		<div class="hero-container">
+				<div class="slider">
+					<img src="images/american.jpg" alt="American food">
+					<img src="images/chinesefood.jpg" alt="Chinese food">
+					<img src="images/mexican.jpg" alt="Mexican food">
+					<img src="images/minestrone.jpg" alt="Minestrone">
+				</div>
+			</div>
+
 		<div class="section values">
 		    <div class="container">
 		      <div class="row">
