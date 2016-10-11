@@ -1,4 +1,4 @@
-
+<?php $thisPage="Italian"; ?>
 <?php include "inc/html-top.inc"; ?>
 
 <body>
@@ -49,7 +49,9 @@
 			Tiramisu (from Italian, spelled tiramisù [tiramiˈsu], meaning "pick me up", "cheer me up", "wake me up" [1] or "lift me up") is a popular coffee-flavoured Italian dessert. It is made of ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, flavoured with cocoa. The recipe has been adapted into many varieties of cakes and other desserts.[2] Its origins are often disputed among Italian regions such as Veneto, Friuli Venezia Giulia, Piedmont, and others. Traditional tiramisu contains a short list of ingredients: finger biscuits, egg yolks, sugar, coffee, mascarpone cheese and cocoa powder. In the original recipe there is no liquor or egg whites. It was first made in Italy in the 1960s.
 		</p>
 	</article>
+
 	<aside>
+		<section class="paper">
 		<h3>Recipe for Tiramisù</h3>
 		<p>
 			Ingredients: 6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 teaspoon vanilla extract, 1 pound mascarpone cheese, 1/4 cup strong brewed coffee, room temperature, 2 tablespoons rum, 2 (3 ounce) packages ladyfinger cookies, 1 tablespoon unsweetened cocoa powder

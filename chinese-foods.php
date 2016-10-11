@@ -1,3 +1,4 @@
+<?php $thisPage="Chinese"; ?>
 <?php include "inc/html-top.inc"; ?>
 
 <body>

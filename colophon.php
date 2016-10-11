@@ -1,3 +1,4 @@
+<?php $thisPage="Colophon"; ?>
 <?php include "inc/html-top.inc"; ?>
 
 <body>
@@ -11,30 +12,61 @@
 
 		<article>
 			<h2>Team Roles and Responsibilities</h2>
-			<h3>The Architect: Miranda Lakis</h3>
-			<p>
-				Set up the initial repository, select a framework and help the Framework Wrangler to use it and decide how the pages will be split up into PHP includes.
-			</p>
 
-			<h3>The Framework Wrangler: Meichuanzi Shi</h3>
-			<p>
-				Install the framework, get the layout from the Content Master and Designer and code the pages.
-			</p>
+			<br>
 
-			<h3>The Content Master and Designer: Lerong Wang</h3>
-			<p>
-				Responsible for writing and structuring the HTML. Also resonsible for the appearance, usability, and responsiveness of the website.
-			</p>
+			<section class="table">
 
-			<h3>The CSS Artist: Tiffany White</h3>
-			<p>
-				Extend the framework and created customized CSS that overrides the most of the look and feel of the framework.
-			</p>
+			<table>
+				<tr> 
+					<th> Position </th>
+					<th> Student </th>
+					<th> Tasks Completed </th>
+				</tr>
 
-			<h3>The JavaScript Coder: Luka Sherman</h3>
-			<p>
-				Create the homepage slideshow and responsible for implementing all JavaScript functionality on the website. 
-			</p>
+				<tr>
+
+					<td> The Architect </td>
+					<td> Miranda Lakis</td>
+					<td>Set up the initial repository, select a framework and help the Framework Wrangler to use it and decide how the pages will be split up into PHP includes.</td>
+
+				</tr> 
+
+				<tr>
+					<td> The Framework Wrangler </td>
+					<td> Meichuanzi Shi</td>
+					<td>Install the framework, get the layout from the Content Master and Designer and code the pages.</td>
+				</tr>
+
+				<tr>
+					<td> The Content Master and Designer </td>
+					<td> Lerong Wang</td>
+					<td> Responsible for writing and structuring the HTML. Also resonsible for the appearance, usability, and responsiveness of the website. </td>
+
+			
+				</tr>
+
+				<tr>
+					<td> The CSS Artist </td>
+					<td> Tiffany White</td>
+					<td> Extend the framework and created customized CSS that overrides most of the look and feel of the framework while maintainging usability. </td>
+
+
+				</tr> 
+					
+					<tr>
+					
+					
+					<td> Luka Sherman</td>
+
+					<td> The JavaScript Coder </td>
+
+					<td> Create the homepage slideshow and responsible for implementing all JavaScript functionality on the website. </td>
+
+
+
+			</table>
+
 
 		</article>
 
