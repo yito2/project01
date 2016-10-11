@@ -1,6 +1,8 @@
 <?php include "inc/html-top.inc"; ?>
 
 <body>
+	<div class="container">
+
     <header>
     	<h1>Regional Foods</h1>
     </header>
@@ -34,6 +36,10 @@
 				Create the homepage slideshow and responsible for implementing all JavaScript functionality on the website. 
 			</p>
 
+		</article>
+
+		<aside>
+
 			<h3>Technology Used</h3>
 
 				<ul>
@@ -45,6 +51,8 @@
 				<li>Text Editors: Sublime, Atom</li>
 				<li>MAMP</li>
 				</ul>
+
+			</aside>
 
 
 			<h3>Sources of the content</h3>
@@ -77,6 +85,7 @@
 
 	<?php include "inc/footer.inc"; ?>
 
-		</article>
+	</div><!--.container-->
+		
 </body>
 </html>

@@ -1,6 +1,7 @@
 <?php include "inc/html-top.inc"; ?>
 
 <body>
+	<div class="container">
     <header>
     	<h1>Regional Foods</h1>
     </header>
@@ -70,6 +71,8 @@
 		</p>
 
 	<?php include "inc/footer.inc"; ?>
+
+</div><!--.container-->
 
 	</body>
 </html>

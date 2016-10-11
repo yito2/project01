@@ -1,7 +1,7 @@
 <?php include "inc/html-top.inc"; ?>
 
 	<body>
-	<div>
+	<div class="container">
         <header>
           <h1>Regional Foods</h1>
         </header>
@@ -59,6 +59,8 @@
 		<script>
 			$('.slider').sss();
 		</script>
+
+		</div><!--.container-->
 
 	</body>
 </html>
