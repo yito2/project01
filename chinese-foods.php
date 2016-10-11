@@ -55,12 +55,15 @@
 
 		<h3>Staple Foods</h3>
 		<figure>
-			<img src="images/noodle.jpg" alt="noodle">
-			<figcaption>Chinese Dan Dan Noodle</figcaption>
+			<img src="images/rice.jpeg" alt="rice">
 		</figure>
 		<p>
 			Rice is a major staple food for people from rice farming areas in southern China.[citation needed] Steamed rice, usually white rice, is the most commonly eaten form. Rice is also used to produce beers, wines and vinegars. Rice is one of the most popular foods in China and is used in many dishes. Glutinous rice ("sticky rice") is a variety of rice used in many specialty Chinese dishes.
 		</p>
+		<figure>
+			<img src="images/noodle.jpg" alt="noodle">
+			<figcaption>Chinese Dan Dan Noodle</figcaption>
+		</figure>
 		<p>
 			Chinese noodles come dry or fresh in a variety of sizes, shapes and textures and are often served in soups or fried as toppings. Some varieties, such as Shou Mian (literally noodles of longevity), are symbolic of long life and good health according to Chinese tradition.[23] Noodles can be served hot or cold with different toppings, with broth, and occasionally dry (as is the case with mi-fun). Noodles are commonly made with rice flour or wheat flour, but other flours such as soybean are also used.
 		</p>
@@ -71,10 +74,7 @@
 			Spices and seasonings such as fresh ginger root, garlic, scallion, white pepper, and sesame oil are widely used in many regional cuisines. Sichuan peppercorns, star anise, cinnamon, fennel, cilantro, parsley, and cloves are also used.[28][29]
 		</p>
 
-		<figure id="photo">
-			<img src="images/chinese.jpg" alt="more chinese food">
-			
-		</figure>
+
 		
 		</aside>
 
