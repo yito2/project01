@@ -47,7 +47,15 @@ h2 {
 	
 }
 
+h3 {
+	text-align: center;
 
+}
+
+h4 {
+	text-align: center;
+
+}
 
 .column-value {
 	padding-bottom: 20px;
@@ -102,31 +110,46 @@ figure {
 ul{
 	list-style-type: circle;
 	list-style: 
+	text-align:center;
 }
 
+ol
+
 .column1 {
-	width:46%;
+	width:40%;
 	float: left;
+	max-width: 420px;
 	vertical-align: top;
-	padding-right: 25px;
+	padding-right: 10px;
 	margin-right: 20px;
 	background: #d9d9d9;
 	padding-left: 10px;
 	height: 1383px;
+	text-align: justify;
+	margin-right: 0;
 
 }
 
+article.column1 {
+	width:40%;
+	margin: 0;
+}
+
+
 
 .column2 {
-	width:46%;
+	width:40%;
 	display: inline-block;
+	float: right;
 	vertical-align: top;
 	padding: 0;
 	margin: 0;
 	background: #b30000;
 	color: #fff9e6;;
 	padding-left: 10px;
+	padding-right: 10px;
 	height: 1383px;
+	text-align: justify;
 
 	
 }
@@ -135,11 +158,38 @@ ul{
 	font-size: 12px;
 }
 
-.recipe {
-	background-image:url(images/food-background);
+aside.recipe {background-image: url(../images/nyc-seal.png);
 	background-repeat: no-repeat;
-	position: center;
+	background-position: top center;
 }
+
+
+figure img {height:200px;
+	width: 200px;
+	padding-left: 70px;
+}
+
+figcaption {
+	text-align: center;
+}
+
+
+#photo img {
+	height:300px;
+	width: 415px;
+	padding: 0;
+}
+
+#photo {
+	margin: 0;
+}
+
+
+
+
+
+
+
 
 
 
