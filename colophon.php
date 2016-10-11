@@ -49,7 +49,7 @@
 				<tr>
 					<td> The CSS Artist </td>
 					<td> Tiffany White</td>
-					<td> Extend the framework and created customized CSS that overrides most of the look and feel of the framework while maintainging usability. </td>
+					<td> Extend the framework and created customized CSS that overrides most of the look and feel of the framework while maintaining usability. </td>
 
 
 				</tr> 

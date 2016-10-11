@@ -42,7 +42,7 @@ color: black;
 
 
 h2 {
-	color: #b30000;
+	color: #660000;
 	font-style:italic;
 	
 }
@@ -108,50 +108,54 @@ figure {
 }
 
 ul{
-	list-style-type: circle;
-	list-style: 
-	text-align:center;
+	list-style-type: square;
+	color:navy;
+	text-align:left;
+	
+	
+
 }
 
-ol
+ol {
+	background-color: teal;
+color:white;
+padding:10px;
+
+}
+
 
 .column1 {
-	width:40%;
+	width:48%;
+	max-width: 400px;
 	float: left;
-	max-width: 420px;
 	vertical-align: top;
-	padding-right: 10px;
-	margin-right: 20px;
 	background: #d9d9d9;
 	padding-left: 10px;
-	height: 1383px;
+	padding-right: 20px;
+	height: 1500px;
 	text-align: justify;
-	margin-right: 0;
 
 }
 
 article.column1 {
 	width:40%;
-	margin: 0;
+	
 }
 
-
-
 .column2 {
-	width:40%;
+	width:46%;
 	display: inline-block;
-	float: right;
 	vertical-align: top;
-	padding: 0;
-	margin: 0;
-	background: #b30000;
+	padding: 10px;
+	background: #660000;
 	color: #fff9e6;;
 	padding-left: 10px;
 	padding-right: 10px;
-	height: 1383px;
+	height: 1480px;
+	margin-left: 70px;
 	text-align: justify;
 
-	
+
 }
 
 .Citations {
@@ -184,8 +188,35 @@ figcaption {
 	margin: 0;
 }
 
+.column-value1 {
+	background-color: #660000;
+	color:white;
+	padding: 10px;
+	margin:5px 0px;
+
+}
+
+.column-value2 {
+	background-color: orange;
+	color:navy;
+	padding: 10px;
+	margin:5px 0px;
 
 
+}
+
+.column-value3 {
+	background-color: #d9d9d9;
+	color:navy;
+	padding: 10px;
+	margin:5px 0px;
+
+
+}
+
+.value-heading1 {
+	color: white;
+}
 
 
 

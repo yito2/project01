@@ -19,6 +19,8 @@
 
 	</section>
 
+
+
 	<article class="column1">
 	
 
@@ -75,6 +77,8 @@
 		</figure>
 		
 		</aside>
+
+
 
 		<section class="Citations">
 

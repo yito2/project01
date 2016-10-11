@@ -20,7 +20,10 @@
 
 	<h3>Traditional Italian Food</h3>
 
+	
+
 	<article class="column1">
+
 		
 		<h4>Pizza</h4>
 		<figure>
@@ -64,6 +67,8 @@
 		</p>
 	</article>
 
+
+
 	<aside class="recipe">
 		
 	
@@ -72,18 +77,20 @@
 		<p>
 			Ingredients: 6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 teaspoon vanilla extract, 1 pound mascarpone cheese, 1/4 cup strong brewed coffee, room temperature, 2 tablespoons rum, 2 (3 ounce) packages ladyfinger cookies, 1 tablespoon unsweetened cocoa powder
 		</p>
-		<p>
-			1. In a medium saucepan, whisk together egg yolks and sugar until well blended. Whisk in milk and cook over medium heat, stirring constantly, until mixture boils. Boil gently for 1 minute, remove from heat and allow to cool slightly. 
-		</p>
-		<p>
-			2. In a medium bowl, beat cream with vanilla until stiff peaks form. Whisk mascarpone into yolk mixture until smooth.
-		</p>
-		<p>
-			3. In a small bowl, combine coffee and rum. Split ladyfingers in half lengthwise and drizzle with coffee mixture.
-		</p>
-		<p>
-			4. Arrange half of soaked ladyfingers in bottom of a 7x11 inch dish. Spread half of mascarpone mixture over ladyfingers, then half of whipped cream over that. Repeat layers and sprinkle with cocoa. Cover and refrigerate 4 to 6 hours, until set.
-		</p>
+
+		<ol>
+		<li>
+			In a medium saucepan, whisk together egg yolks and sugar until well blended. Whisk in milk and cook over medium heat, stirring constantly, until mixture boils. Boil gently for 1 minute, remove from heat and allow to cool slightly. 
+		</li>
+		<li>
+			In a medium bowl, beat cream with vanilla until stiff peaks form. Whisk mascarpone into yolk mixture until smooth.
+		</li>
+		<li>
+			In a small bowl, combine coffee and rum. Split ladyfingers in half lengthwise and drizzle with coffee mixture.
+		</li>
+		<li>
+			Arrange half of soaked ladyfingers in bottom of a 7x11 inch dish. Spread half of mascarpone mixture over ladyfingers, then half of whipped cream over that. Repeat layers and sprinkle with cocoa. Cover and refrigerate 4 to 6 hours, until set.
+		</li>
 	
 	</aside>
 

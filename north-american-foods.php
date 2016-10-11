@@ -18,6 +18,8 @@
 
 		 </section>
 
+		
+
 <h3>American Foods</h3>
 
 		<article class="column1">
@@ -34,7 +36,7 @@
 		     	Some dishes that are typically considered American have their origins in other countries. American cooks and chefs have substantially altered these dishes over the years, to the degree that the dishes now enjoyed around the world are considered to be American. Hot dogs and hamburgers are both based on traditional German dishes, but in their modern popular form they can be reasonably considered American dishes.[29]
 		     </p>
 
-		     <iframe class="video" width="420" height="388" src="http://www.foodnetwork.com/videos/an-all-american-chopped-0192855.embed.html" frameborder="0" allowfullscreen></iframe>
+		     <iframe class="video" width="370" height="350" src="http://www.foodnetwork.com/videos/an-all-american-chopped-0192855.embed.html" frameborder="0" allowfullscreen></iframe>
 
 		     </article>
 
@@ -56,11 +58,13 @@
 			</p>
 
 		</aside>
+
 		
 		
 		<article>
 	        
 	             <h3>Recipe for Tacos</h3>
+
 	             <ol>
 
 	             <li>	Make a taco mold by rolling out aluminum foil and folding it over in 10-inch increments until you have a 4-sheet-thick piece of foil. Fold the large foil square in half horizontally, bringing the bottom to the top, and then turn 90 degrees. Crimp over the top and bottom edges by 1 inch, and then fold over the sides by 1 inch. Place the aluminum foil roll or a narrow rolling pin into the center of the foil square and bring the sides together to create a hollow, narrow tube to mold the taco, making sure it can stand up on the long side.
