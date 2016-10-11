@@ -5,15 +5,16 @@
         <header>
           <h1>Regional Foods</h1>
         </header>
-	
+
 		<?php include "inc/nav.inc"; ?>
 
 		<div class="hero-container">
 				<div class="slider">
-					<img src="images/american.jpg" alt="American food">
-					<img src="images/chinesefood.jpg" alt="Chinese food">
-					<img src="images/mexican.jpg" alt="Mexican food">
-					<img src="images/minestrone.jpg" alt="Minestrone">
+					<img src="images/soup.jpg" alt="Soup">
+					<img src="images/arabic.jpg" alt="Arabic food">
+					<img src="images/tomatoes.jpg" alt="Tomatoes">
+					<img src="images/sandwich.jpg" alt="Sandwich">
+					<img src="images/paella.jpg" alt="Paella">
 				</div>
 			</div>
 
@@ -49,7 +50,7 @@
 
 
 <?php include "inc/footer.inc"; ?>
-		
+
 
 	</div>
 
