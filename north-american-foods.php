@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream:north-american-foods.php
 <?php include "inc/html-top.inc"; ?>
 
 <body>
@@ -7,27 +6,6 @@
     </header>
     
 	<?php include "inc/nav.inc"; ?>
-=======
-<!doctype html>
-
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>Chinese Foods</title>
-	</head>
-	<body>
-	    <header>
-	    	<h1>Regional Foods</h1>
-	    </header>
-		<nav>
-			<ul>
-					<li><a	href="index.html">Home</a></li>
-					<li><a	href="north-american-foods.html">North American</a></li>
-					<li><a	href="chinese-foods.html">Chinese</a></li>
-					<li><a	href="italian-foods.html">Italian</a></li>
-			</ul>
-		</nav>
->>>>>>> Stashed changes:north-american-foods.html
 
 		<article>
 		     <h2>North American Foods</h2>
@@ -58,7 +36,6 @@
 			<p>
 				The best known of Mexico’s street foods is the taco, whose origin is based on the pre-Hispanic custom of picking up other foods with tortillas as utensils were not used.[10] The origin of the word is in dispute, with some saying it is derived from Nahuatl and others from various Spanish phrases.[33] Tacos are not eaten as the main meal; they are generally eaten before midday or late in the evening. Just about any other foodstuff can be wrapped in a tortilla, and in Mexico, it varies from rice, to meat (plain or in sauce), to cream, to vegetables, to cheese, or simply with plain chile peppers or fresh salsa. Preferred fillings vary from region to region with pork generally found more often in the center and south, beef in the north, seafood along the coasts, and chicken and lamb in most of the country.[34]
 			</p>
-
 		
 		</article>
 
@@ -79,38 +56,23 @@
 	             </p>
 
 
-
 			</aside>
 
-<<<<<<< Updated upstream:north-american-foods.php
-	<p>
-              <h3>Citations</h3>
-                  <ul>
-                         <li>American Food - American Cuisine. (n.d.). Retrieved October 09, 2016, from <a href="http://www.worldwidewebawards.net/Food/North_America.html">http://www.worldwidewebawards.net/Food/North_America.html</a></li>
-=======
-		<footer>
-	              <h3>Citations</h3>
-	                  <ul>
-	                         <li>American Food - American Cuisine. (n.d.). Retrieved October 09, 2016, from <a href="http://www.worldwidewebawards.net/Food/North_America.html">http://www.worldwidewebawards.net/Food/North_America.html</a></li>
->>>>>>> Stashed changes:north-american-foods.html
+			<p>
+	          <h3>Citations</h3>
+	              <ul>
+	                     <li>American Food - American Cuisine. (n.d.). Retrieved October 09, 2016, from <a href="http://www.worldwidewebawards.net/Food/North_America.html">http://www.worldwidewebawards.net/Food/North_America.html</a></li>
 
-	                         <li>Cuisine of the United States. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Cuisine_of_the_United_States">https://en.wikipedia.org/wiki/Cuisine_of_the_United_States</a></li>
+	                     <li>Cuisine of the United States. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Cuisine_of_the_United_States">https://en.wikipedia.org/wiki/Cuisine_of_the_United_States</a></li>
 	                         
-	                         <li>Recipe courtesy of Alton Brown SHOW: Good Eats EPISODE: American Classics VIII: Tacos. (n.d.). All American Beef Taco : Alton Brown : Food Network. Retrieved October 09, 2016, from <a href="http://www.foodnetwork.com/recipes/alton-brown/all-american-beef-taco-recipe.html">http://www.foodnetwork.com/recipes/alton-brown/all-american-beef-taco-recipe.html</a> </li>
+	                     <li>Recipe courtesy of Alton Brown SHOW: Good Eats EPISODE: American Classics VIII: Tacos. (n.d.). All American Beef Taco : Alton Brown : Food Network. Retrieved October 09, 2016, from <a href="http://www.foodnetwork.com/recipes/alton-brown/all-american-beef-taco-recipe.html">http://www.foodnetwork.com/recipes/alton-brown/all-american-beef-taco-recipe.html</a> </li>
 
-	                         <li>Mexican cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Mexican_cuisine">https://en.wikipedia.org/wiki/Mexican_cuisine</a></li>
+	                     <li>Mexican cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Mexican_cuisine">https://en.wikipedia.org/wiki/Mexican_cuisine</a></li>
 
-<<<<<<< Updated upstream:north-american-foods.php
-                 </ul>	
-              			
-	</p>
+                 </ul>			
+			</p>
 
 	<?php include "inc/footer.inc"; ?>
-=======
-	                 </ul>	
-	              <p>Webpage created by Miranda Lakis, Luka Sherman, Meichuanzi Shi, Lerong Wang and Tiffany White</p>			
-		</footer>
->>>>>>> Stashed changes:north-american-foods.html
 
 	</body>
 </html>
