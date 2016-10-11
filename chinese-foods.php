@@ -15,7 +15,7 @@
 		</p>
 		<h3>Regional Cuisines</h3>
 		<figure>
-			<img src="images/chinesefood.jpeg" alt="chinese food">
+			<img src="images/chinesefood.jpg" alt="chinese food">
 			<figcaption>Chinese Food</figcaption>
 		</figure>
 		<p>
@@ -40,7 +40,7 @@
         <aside>
 		<h3>Staple Foods</h3>
 		<figure>
-			<img src="images/noodle.jpeg" alt="noodle">
+			<img src="images/noodle.jpg" alt="noodle">
 			<figcaption>Chinese Dan Dan Noodle</figcaption>
 		</figure>
 		<p>
