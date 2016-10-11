@@ -23,6 +23,7 @@
 	
 
 		<h3>Regional Cuisines</h3>
+		
 		<figure>
 			<img src="images/chinesefood.jpg" alt="chinese food">
 			
@@ -68,6 +69,10 @@
 			Spices and seasonings such as fresh ginger root, garlic, scallion, white pepper, and sesame oil are widely used in many regional cuisines. Sichuan peppercorns, star anise, cinnamon, fennel, cilantro, parsley, and cloves are also used.[28][29]
 		</p>
 
+		<figure id="photo">
+			<img src="images/chinese.jpg" alt="more chinese food">
+			
+		</figure>
 		
 		</aside>
 
