@@ -1,8 +1,8 @@
-<nav>
-			<ul>
-				<li><a	href="index.php">Home</a></li>
-				<li><a	href="north-american-foods.php">North American</a></li>
-				<li><a	href="chinese-foods.php">Chinese</a></li>
-				<li><a	href="italian-foods.php">Italian</a></li>
-			</ul>
-</nav>
+   <nav>
+     <ul>
+        <li><a class="button button-primary" href="index.html">Home</a></li>
+        <li><a class="button button-primary" href="chinese-foods.html">Chinese Food</a></li>
+        <li><a class="button button-primary" href="italian-foods.html">Italian Food</a></li>
+        <li><a class="button button-primary" href="north-american-foods.html">North American Food</a></li>
+      </ul>
+    </nav>
