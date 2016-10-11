@@ -23,7 +23,7 @@
 		    <div class="container">
 		      <div class="row">
 		        <div class="column-value1">
-		          <h2 class="value-multiplier">North American Foods</h2>
+		          <h2 id="value-multiplier1">North American Foods</h2>
 		          <h5 class="value-heading1"></h5>
 		          <p class="value-description">North American food consists of ingredients coming from four areas: Canada, the United States, Mexico, and Central America. The food in North America began with the Native Americans. The three main crops, also called the "Three Sisters", were beans, squash, and maize. The Native Americans also used salmon, berries, deer, rabbit, and mushrooms in their dishes. When Christopher Columbus came to North America, rum became quite popular in this region. Canada's cuisine was influenced by the French and English cuisines. Asian, Scandinavian, and Slavic immigrants also brought new foods with them. These cuisines were fused to make new and unique North American recipes.</p>
 

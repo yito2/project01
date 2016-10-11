@@ -162,11 +162,6 @@ article.column1 {
 	font-size: 12px;
 }
 
-aside.recipe {background-image: url(../images/nyc-seal.png);
-	background-repeat: no-repeat;
-	background-position: top center;
-}
-
 
 figure img {height:200px;
 	width: 200px;
@@ -214,7 +209,7 @@ figcaption {
 
 }
 
-.value-heading1 {
+#value-multiplier1 {
 	color: white;
 }
 
