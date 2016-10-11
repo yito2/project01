@@ -91,11 +91,12 @@
 		<li>
 			Arrange half of soaked ladyfingers in bottom of a 7x11 inch dish. Spread half of mascarpone mixture over ladyfingers, then half of whipped cream over that. Repeat layers and sprinkle with cocoa. Cover and refrigerate 4 to 6 hours, until set.
 		</li>
+		</ol>
 	
 	</aside>
 
 <section class="Citations">
-		<p>
+
 		      <h5>Citations</h5>
                   <ul>
 	                         <li>C., L., A., Mash, L., C., S., . . . D. (2006). Tiramisu II Recipe. Retrieved October 09, 2016, from<a href="https://en.wikipedia.org/wiki/Tiramisu">https://en.wikipedia.org/wiki/Tiramisu</a></li>
@@ -111,7 +112,7 @@
 	                         <li>Tiramisu. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Tiramisu">https://en.wikipedia.org/wiki/Tiramisu</a> </li>
                  </ul>	
 
-</p>
+
 </section>
      
            
