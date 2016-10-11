@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream:chinese-foods.php
 <?php include "inc/html-top.inc"; ?>
 
 <body>
@@ -7,10 +6,7 @@
     </header>
     
 	<?php include "inc/nav.inc"; ?>
-=======
-<!doctype html>
 
-<<<<<<< Updated upstream
 	<article>
 		<h2>Chinese Foods</h2>
 		<h3>History</h3>
@@ -38,27 +34,6 @@
 		<p>
 			Based on the raw materials and ingredients used, the method of preparation and cultural differences, a variety of foods with different flavors and textures are prepared in different regions of the country. Many traditional regional cuisines rely on basic methods of preservation such as drying, salting, pickling and fermentation.[27]
 		</p>
-=======
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>Chinese Foods</title>
-	</head>
-	
-	<body>
-	    <header>
-	    	<h1>Regional Foods</h1>
-	    </header>
-		<nav>
-			<ul>
-					<li><a	href="index.html">Home</a></li>
-					<li><a	href="north-american-foods.html">North American</a></li>
-					<li><a	href="chinese-foods.html">Chinese</a></li>
-					<li><a	href="italian-foods.html">Italian</a></li>
-			</ul>
-		</nav>
->>>>>>> Stashed changes:chinese-foods.html
->>>>>>> Stashed changes
 
 		<article>
 			<h2>Chinese Foods</h2>
@@ -66,6 +41,7 @@
 			<p>
 				Chinese society greatly valued gastronomy and developed an extensive study of the subject based on its traditional medical beliefs. Chinese culture initially centered around the North China Plain. The first domesticated crops seem to have been the foxtail and broomcorn varieties of millet, while rice was cultivated in the south. By 2000 BC, wheat had arrived from western Asia. However, these grains were typically served as warm noodle soups instead of baked into bread as in Europe. Nobles hunted various wild game and consumed mutton, pork, dog, and beef as these animals were domesticated. Grain was stored against famine and flood and meat was preserved with salt, vinegar, curing, and fermenting. The flavor of the meat was enhanced by cooking it in animal fats though this practice was mostly restricted to the wealthy.[4]
 			</p>
+
 			<h3>Regional Cuisines</h3>
 			<figure>
 				<img src="images/chinesefood.jpeg" alt="chinese food">
@@ -88,7 +64,6 @@
 				Based on the raw materials and ingredients used, the method of preparation and cultural differences, a variety of foods with different flavors and textures are prepared in different regions of the country. Many traditional regional cuisines rely on basic methods of preservation such as drying, salting, pickling and fermentation.[27]
 			</p>
 
-<<<<<<< Updated upstream
         <aside>
 		<h3>Staple Foods</h3>
 		<figure>
@@ -108,9 +83,9 @@
 			Spices and seasonings such as fresh ginger root, garlic, scallion, white pepper, and sesame oil are widely used in many regional cuisines. Sichuan peppercorns, star anise, cinnamon, fennel, cilantro, parsley, and cloves are also used.[28][29]
 		</p>
 		</aside>
-=======
+
 		</article>
->>>>>>> Stashed changes
+
 
 	        <aside>
 			<h3>Staple Foods</h3>
@@ -132,31 +107,18 @@
 			</p>
 			</aside>
 
-<<<<<<< Updated upstream:chinese-foods.php
-	<p>
-              <h3>Citations</h3>
-                  <ul>
-                         <li>Chinese cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_cuisine">https://en.wikipedia.org/wiki/Chinese_cuisine</a></li>
+		<p>
+             <h3>Citations</h3>
+                <ul>
+                    <li>Chinese cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_cuisine">https://en.wikipedia.org/wiki/Chinese_cuisine</a></li>
                          
-                         <li>Chinese regional cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_regional_cuisine">https://en.wikipedia.org/wiki/Chinese_regional_cuisine</a> </li>
+                     <li>Chinese regional cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_regional_cuisine">https://en.wikipedia.org/wiki/Chinese_regional_cuisine</a> </li>
 
-                 </ul>	
+                </ul>	
               	
-	</p>
+		</p>
 
 	<?php include "inc/footer.inc"; ?>
-=======
-		<footer>
-	              <h3>Citations</h3>
-	                  <ul>
-	                         <li>Chinese cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_cuisine">https://en.wikipedia.org/wiki/Chinese_cuisine</a></li>
-	                         
-	                         <li>Chinese regional cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_regional_cuisine">https://en.wikipedia.org/wiki/Chinese_regional_cuisine</a> </li>
-
-	                 </ul>	
-	              <p>Webpage created by Miranda Lakis, Luka Sherman, Meichuanzi Shi, Lerong Wang and Tiffany White</p>	
-		</footer>
->>>>>>> Stashed changes:chinese-foods.html
 
 	</body>
 </html>
