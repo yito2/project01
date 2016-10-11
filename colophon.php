@@ -84,10 +84,12 @@
 				<li>MAMP</li>
 				</ul>
 
-			</aside>
+		</aside>
+
+		<section class="Citations">
 
 
-			<h3>Sources of the content</h3>
+			<h5>Sources of the content</h5>
 			     <ul>
                          <li>Chinese cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_cuisine">https://en.wikipedia.org/wiki/Chinese_cuisine</a></li>
                          
@@ -113,6 +115,10 @@
                          <li>Mexican cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Mexican_cuisine">https://en.wikipedia.org/wiki/Mexican_cuisine</a></li>
 
                  </ul>
+
+             </section>
+
+          
 
 
 	<?php include "inc/footer.inc"; ?>

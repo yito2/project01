@@ -9,13 +9,20 @@
     
 	<?php include "inc/nav.inc"; ?>
 
-		<article>
-		     <h2>North American Foods</h2>
+	<section>
+<h2>North American Foods</h2>
 		     <h3>History</h3>
 		     <p>
 		     	North American cuisine is a term used for foods native to or popular in countries of North America, such as Canadian cuisine, American cuisine, Mexican cuisine and Central American cuisine. North American cuisines display influence from many international cuisines, including Native American cuisine, Jewish cuisine, Asian cuisine, and especially European cuisine. As a broad, geo-culinary term, North American cuisine also includes Central American and Caribbean cuisines. These regions are part of North America, so these regional cuisines also fall within the penumbra of North American cookery.
 		     </p>
-		     <h3>American Foods</h3>
+
+		 </section>
+
+<h3>American Foods</h3>
+
+		<article class="column1">
+		     
+		     
 			<figure>
 				<img src="images/american.jpg" alt="American food">
 			</figure>
@@ -25,6 +32,12 @@
 		     <p>
 		     	Some dishes that are typically considered American have their origins in other countries. American cooks and chefs have substantially altered these dishes over the years, to the degree that the dishes now enjoyed around the world are considered to be American. Hot dogs and hamburgers are both based on traditional German dishes, but in their modern popular form they can be reasonably considered American dishes.[29]
 		     </p>
+
+		     </article>
+
+
+<aside class="column2">
+
 		     <h3>Mexican Foods</h3>
 			<figure>
 				<img src="images/mexican.jpg" alt="Mexican food">
@@ -38,10 +51,12 @@
 			<p>
 				The best known of Mexico’s street foods is the taco, whose origin is based on the pre-Hispanic custom of picking up other foods with tortillas as utensils were not used.[10] The origin of the word is in dispute, with some saying it is derived from Nahuatl and others from various Spanish phrases.[33] Tacos are not eaten as the main meal; they are generally eaten before midday or late in the evening. Just about any other foodstuff can be wrapped in a tortilla, and in Mexico, it varies from rice, to meat (plain or in sauce), to cream, to vegetables, to cheese, or simply with plain chile peppers or fresh salsa. Preferred fillings vary from region to region with pork generally found more often in the center and south, beef in the north, seafood along the coasts, and chicken and lamb in most of the country.[34]
 			</p>
-		
-		</article>
 
-	        <aside>
+		</aside>
+		
+		
+		<article>
+	        
 	             <h3>Recipe for Tacos</h3>
 	             <p>
 	             	Make a taco mold by rolling out aluminum foil and folding it over in 10-inch increments until you have a 4-sheet-thick piece of foil. Fold the large foil square in half horizontally, bringing the bottom to the top, and then turn 90 degrees. Crimp over the top and bottom edges by 1 inch, and then fold over the sides by 1 inch. Place the aluminum foil roll or a narrow rolling pin into the center of the foil square and bring the sides together to create a hollow, narrow tube to mold the taco, making sure it can stand up on the long side.
@@ -58,10 +73,12 @@
 	             </p>
 
 
-			</aside>
+			</article>
+
+			<section class="Citations">
 
 			<p>
-	          <h3>Citations</h3>
+	          <h5>Citations</h5>
 	              <ul>
 	                     <li>American Food - American Cuisine. (n.d.). Retrieved October 09, 2016, from <a href="http://www.worldwidewebawards.net/Food/North_America.html">http://www.worldwidewebawards.net/Food/North_America.html</a></li>
 
@@ -73,6 +90,8 @@
 
                  </ul>			
 			</p>
+
+		</section>
 
 	<?php include "inc/footer.inc"; ?>
 

@@ -9,13 +9,19 @@
 	
 	<?php include "inc/nav.inc"; ?>
 	
-	<article>
+	<section>
 		<h2>Italian Foods</h2>
 		<h3>History</h3>
 		<p>
 			Italian cuisine has developed over the centuries. Although the country known as Italy did not unite until the 19th century, the cuisine can claim traceable roots as far back as the 4th century BCE. Through the centuries, neighbouring regions, conquerors, high-profile chefs, political upheaval and the discovery of the New World have influenced its development. Italian food started to form after the fall of the Roman Empire, when different cities began to separate and form their own traditions. Many different types of bread and pasta were made, and there was a variation in cooking techniques and preparation. The country was split. For example, the North of Italy (Milan) is known for its risottos, the central/middle of the country (Bologna) is known for its tortellini and the South (Naples) is famous for its pizzas.[11]
 		</p>
-		<h3>Traditional Italian Food</h3>
+
+	</section>
+
+	<h3>Traditional Italian Food</h3>
+
+	<article class="column1">
+		
 		<h4>Pizza</h4>
 		<figure>
 			<img src="images/pizza.jpg" alt="pizza">
@@ -26,6 +32,7 @@
 		<p>
 			A popular variant of pizza in Italy is Sicilian pizza (locally called sfincione or sfinciuni),[33][34] a thick-crust or deep-dish pizza originating during the 17th century in Sicily: it is essentially a focaccia that is typically topped with tomato sauce and other ingredients. Until the 1860s, sfincione was the type of pizza usually consumed in Sicily, especially in the Western portion of the island.[35] Other variations of pizzas are also found in other regions of Italy, for example pizza al padellino or pizza al tegamino, a small-sized, thick-crust and deep-dish pizza typically served in Turin, Piedmont.[36][37][38]
 		</p>
+
 		<h4>Risotto</h4>
 		<figure>
 			<img src="images/risotto.jpg" alt="risotto">
@@ -34,6 +41,13 @@
 		<p>
 			Risotto is a northern Italian rice dish cooked in a broth to a creamy consistency. The broth can be derived from meat, fish, or vegetables. Many types of risotto contain butter, wine, and onion. It is one of the most common ways of cooking rice in Italy. Risotto in Italy is normally a primo (first course), served on its own before the main course, but risotto alla milanese, (pronounced [riˈzɔtto alla milaˈneːze]), is often served together with ossobuco alla milanese.
 		</p>
+
+	</article>
+
+
+
+	<article class="column2">
+		
 		<h4>Minestrone</h4>
 		<figure>
 			<img src="images/minestrone.jpg" alt="minestrone">
@@ -51,8 +65,9 @@
 	</article>
 
 	<aside>
-		<section class="paper">
+	
 		<h3>Recipe for Tiramisù</h3>
+
 		<p>
 			Ingredients: 6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 teaspoon vanilla extract, 1 pound mascarpone cheese, 1/4 cup strong brewed coffee, room temperature, 2 tablespoons rum, 2 (3 ounce) packages ladyfinger cookies, 1 tablespoon unsweetened cocoa powder
 		</p>
@@ -70,8 +85,9 @@
 		</p>
 	</aside>
 
-	<p>
-		      <h3>Citations</h3>
+<section class="Citations">
+		<p>
+		      <h5>Citations</h5>
                   <ul>
 	                         <li>C., L., A., Mash, L., C., S., . . . D. (2006). Tiramisu II Recipe. Retrieved October 09, 2016, from<a href="https://en.wikipedia.org/wiki/Tiramisu">https://en.wikipedia.org/wiki/Tiramisu</a></li>
 
@@ -85,8 +101,12 @@
 
 	                         <li>Tiramisu. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Tiramisu">https://en.wikipedia.org/wiki/Tiramisu</a> </li>
                  </ul>	
+
+</p>
+</section>
+     
            
-	</p>
+	
 
 	<?php include "inc/footer.inc"; ?>
 
