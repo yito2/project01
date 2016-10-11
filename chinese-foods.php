@@ -44,7 +44,7 @@
 
 			<h3>Regional Cuisines</h3>
 			<figure>
-				<img src="images/chinesefood.jpeg" alt="chinese food">
+				<img src="images/updated-noodles.jpg" alt="noodles">
 				<figcaption>Chinese Food</figcaption>
 			</figure>
 			<p>
@@ -64,10 +64,11 @@
 				Based on the raw materials and ingredients used, the method of preparation and cultural differences, a variety of foods with different flavors and textures are prepared in different regions of the country. Many traditional regional cuisines rely on basic methods of preservation such as drying, salting, pickling and fermentation.[27]
 			</p>
 
+        </article>
         <aside>
 		<h3>Staple Foods</h3>
 		<figure>
-			<img src="images/updated-noodles.jpg" alt="noodles">
+			<img src="images/noodle.jpg" alt="noodle">
 			<figcaption>Chinese Dan Dan Noodle</figcaption>
 		</figure>
 		<p>
@@ -84,30 +85,7 @@
 		</p>
 		</aside>
 
-		</article>
 
-
-	        <aside>
-			<h3>Staple Foods</h3>
-			<figure>
-				<img src="images/noodle.jpeg" alt="noodle">
-				<figcaption>Chinese Dan Dan Noodle</figcaption>
-			</figure>
-			<p>
-				Rice is a major staple food for people from rice farming areas in southern China.[citation needed] Steamed rice, usually white rice, is the most commonly eaten form. Rice is also used to produce beers, wines and vinegars. Rice is one of the most popular foods in China and is used in many dishes. Glutinous rice ("sticky rice") is a variety of rice used in many specialty Chinese dishes.
-			</p>
-			<p>
-				Chinese noodles come dry or fresh in a variety of sizes, shapes and textures and are often served in soups or fried as toppings. Some varieties, such as Shou Mian (literally noodles of longevity), are symbolic of long life and good health according to Chinese tradition.[23] Noodles can be served hot or cold with different toppings, with broth, and occasionally dry (as is the case with mi-fun). Noodles are commonly made with rice flour or wheat flour, but other flours such as soybean are also used.
-			</p>
-			<p>
-				Some common vegetables used in Chinese cuisine include Chinese leaves, bok choy (Chinese cabbage), dao-mieu (Chinese spinach), on choy, yu choy, bitter melon, and Chinese broccoli or gailan (guy-lahn). Other vegetables include bean sprouts, pea vine tips, watercress, celery.
-			</p>
-			<p>
-				Spices and seasonings such as fresh ginger root, garlic, scallion, white pepper, and sesame oil are widely used in many regional cuisines. Sichuan peppercorns, star anise, cinnamon, fennel, cilantro, parsley, and cloves are also used.[28][29]
-			</p>
-			</aside>
-
-		<p>
              <h3>Citations</h3>
                 <ul>
                     <li>Chinese cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_cuisine">https://en.wikipedia.org/wiki/Chinese_cuisine</a></li>
