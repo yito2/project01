@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <?php $thisPage="Home"; ?>
 <?php include "inc/html-top.inc"; ?>
 

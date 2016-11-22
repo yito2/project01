@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <?php $thisPage="Italian"; ?>
 <?php include "inc/html-top.inc"; ?>
 

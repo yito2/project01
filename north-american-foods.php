@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <?php $thisPage="North America"; ?>
 <?php include "inc/html-top.inc"; ?>
 
