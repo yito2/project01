@@ -29,10 +29,13 @@
 	
 }
 
+.sss {
+	height: 500px;
+}
+
 h2 {
 	color: #660000;
 	font-style:italic;
-
 }
 
 .column-value {
@@ -91,12 +94,17 @@ ol {
 
 #section {
 	background: #d9d9d9;
+	margin-bottom: 50px;
 }
 
 .Citations {
 	font-size: 12px;
 	padding: 10px;
-	width:100%;
+	width: 100%;
+}
+
+.col-sm-6 {
+	margin-bottom: 20px;
 }
 
 

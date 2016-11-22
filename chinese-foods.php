@@ -65,7 +65,7 @@
 
 		<div class="Citations">
 
-        <h5>Citations</h5>
+        <h4>Citations</h4>
             <ul>
 				<li>Chinese cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_cuisine">https://en.wikipedia.org/wiki/Chinese_cuisine</a></li>
             	<li>Chinese regional cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_regional_cuisine">https://en.wikipedia.org/wiki/Chinese_regional_cuisine</a> </li>

@@ -22,8 +22,7 @@
 
 	<h3>Traditional Italian Foods</h3>
 
-
-	<article class="col-sm-6">
+	<article class="col-sm-6" id="section">
 		<img src="images/pizza.jpg" alt="pizza">
 		<p>
 
@@ -40,7 +39,7 @@
 	</article>
 
 
-	<article class="col-sm-6">
+	<article class="col-sm-6" id="section">
 		<img src="images/minestrone.jpg" alt="minestrone">
 		<p>
 			<strong>Minestrone</strong> (/ˌmɪnᵻsˈtroʊni/; Italian: [mineˈstroːne]) is a thick soup of Italian origin made with vegetables, often with the addition of pasta or rice. Common ingredients include beans, onions, celery, carrots, stock, and tomatoes. There is no set recipe for minestrone, since it is usually made out of whatever vegetables are in season. It can be vegetarian, contain meat, or contain a meat-based broth (such as chicken stock). Angelo Pellegrini, however, argued that the base of minestrone is bean broth, and that borlotti beans (also called Roman beans) "are the beans to use for genuine minestrone".[1]
@@ -52,11 +51,9 @@
 	</article>
 
 
-<section class="Citations">
-
-		      <h5>Citations</h5>
-                  <ul>
-	                         <li>C., L., A., Mash, L., C., S., . . . D. (2006). Tiramisu II Recipe. Retrieved October 09, 2016, from<a href="https://en.wikipedia.org/wiki/Tiramisu">https://en.wikipedia.org/wiki/Tiramisu</a></li>
+        <div class="Citations">
+	              <ul>
+	                      <li>C., L., A., Mash, L., C., S., . . . D. (2006). Tiramisu II Recipe. Retrieved October 09, 2016, from<a href="https://en.wikipedia.org/wiki/Tiramisu">https://en.wikipedia.org/wiki/Tiramisu</a></li>
 
 	                         <li>Italian cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Italian_cuisine">https://en.wikipedia.org/wiki/Italian_cuisine</a></li>
 	                         
@@ -66,11 +63,12 @@
 
 	                         <li>Risotto. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Risotto">https://en.wikipedia.org/wiki/Risotto</a> </li>
 
-	                         <li>Tiramisu. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Tiramisu">https://en.wikipedia.org/wiki/Tiramisu</a> </li>
-                 </ul>	
+	                      <li>Tiramisu. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Tiramisu">https://en.wikipedia.org/wiki/Tiramisu</a> </li>
+
+                 </ul>			
 
 
-</section>
+</div>
      
            
 	
