@@ -86,10 +86,6 @@ body {
 	background-color: #fff9e6;
 }
 
-figure {
-	position: center;
-}
-
 ul{
 	list-style-type: square;
 	color:navy;
@@ -132,18 +128,13 @@ article.column1 {
 
 .Citations {
 	font-size: 12px;
+	padding: 10px;
 }
 
 
-figure img {
-	height: 200px;
-	width:; 200px;
-	margin-right: 50px;
-	float: left;
-}
-
-figcaption {
-	text-align: center;
+img {
+	height: 100px;
+	margin: 20px;
 }
 
 
@@ -159,10 +150,9 @@ figcaption {
 
 .column-value1 {
 	background-color: #660000;
-	color:white;
+	color: white;
 	padding: 10px;
-	margin:5px 0px;
-
+	margin: 5px 0;
 }
 
 .column-value2 {
