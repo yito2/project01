@@ -25,14 +25,8 @@
 }
 
 .horizontal-nav .currentpage a {
-	background: orange;
-	color: black;
+	font-weight: bold;
 }
-
-.container {
-	background-color: #fff9e6;
-}
-
 
 h2 {
 	color: #660000;

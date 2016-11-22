@@ -58,6 +58,16 @@
 			$('.slider').sss();
 		</script>
 
+<script>
+$(function(){
+  $('a').each(function() {
+    if ($(this).prop('href') == window.location.href) {
+      $(this).addClass('current');
+    }
+  });
+});
+</script>
+
 		</div><!--.container-->
 	</body>
 </html>
