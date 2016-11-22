@@ -21,7 +21,7 @@
 
 
 
-	<article class="column1">
+	<article class="col-sm-6" id="section">
 
 		<h3>Regional Cuisines</h3>
 		
@@ -41,16 +41,17 @@
 	</article>
 
 
-    <aside class="column2">
+    <aside class="col-sm-6" id="section">
         	
 
 		<h3>Staple Foods</h3>
 			<img src="images/rice.jpeg" alt="rice">
 		<p>
 			Rice is a major staple food for people from rice farming areas in southern China.[citation needed] Steamed rice, usually white rice, is the most commonly eaten form. Rice is also used to produce beers, wines and vinegars. Rice is one of the most popular foods in China and is used in many dishes. Glutinous rice ("sticky rice") is a variety of rice used in many specialty Chinese dishes.
-				
-			<img src="images/noodle.jpg" alt="noodle">
+		</p>
 
+			<img src="images/noodle.jpg" alt="noodle">
+		<p>
 			Chinese noodles come dry or fresh in a variety of sizes, shapes and textures and are often served in soups or fried as toppings. Some varieties, such as Shou Mian (literally noodles of longevity), are symbolic of long life and good health according to Chinese tradition.[23] Noodles can be served hot or cold with different toppings, with broth, and occasionally dry (as is the case with mi-fun). Noodles are commonly made with rice flour or wheat flour, but other flours such as soybean are also used.
 
 			Some common vegetables used in Chinese cuisine include Chinese leaves, bok choy (Chinese cabbage), dao-mieu (Chinese spinach), on choy, yu choy, bitter melon, and Chinese broccoli or gailan (guy-lahn). Other vegetables include bean sprouts, pea vine tips, watercress, celery.
@@ -60,21 +61,14 @@
 
 	</aside>
 
+		<div class="Citations">
 
-
-		<section class="Citations">
-
-             <h5>Citations</h5>
-                <ul>
-                    <li>Chinese cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_cuisine">https://en.wikipedia.org/wiki/Chinese_cuisine</a></li>
-                         
-                     <li>Chinese regional cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_regional_cuisine">https://en.wikipedia.org/wiki/Chinese_regional_cuisine</a> </li>
-
-                </ul>	
-              	
-		</p>
-
-		</section>
+        <h5>Citations</h5>
+            <ul>
+				<li>Chinese cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_cuisine">https://en.wikipedia.org/wiki/Chinese_cuisine</a></li>
+            	<li>Chinese regional cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Chinese_regional_cuisine">https://en.wikipedia.org/wiki/Chinese_regional_cuisine</a> </li>
+            </ul>	
+		</div>
 
 	<?php include "inc/footer.inc"; ?>
 

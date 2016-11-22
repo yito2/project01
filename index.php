@@ -10,14 +10,14 @@
 		<?php include "inc/nav.inc"; ?>
 
 		<div class="hero-container">
-				<div class="slider">
-					<img src="images/soup.jpg" alt="Soup">
-					<img src="images/arabic.jpg" alt="Arabic food">
-					<img src="images/tomatoes.jpg" alt="Tomatoes">
-					<img src="images/sandwich.jpg" alt="Sandwich">
-					<img src="images/paella.jpg" alt="Paella">
-				</div>
+			<div class="slider">
+				<img src="images/soup.jpg" alt="Soup">
+				<img src="images/arabic.jpg" alt="Arabic food">
+				<img src="images/tomatoes.jpg" alt="Tomatoes">
+				<img src="images/sandwich.jpg" alt="Sandwich">
+				<img src="images/paella.jpg" alt="Paella">
 			</div>
+		</div>
 
 		<div class="section values">
 		    <div class="container">
@@ -50,11 +50,8 @@
 		  </div>
 
 
-<?php include "inc/footer.inc"; ?>
-
-
+	<?php include "inc/footer.inc"; ?>
 	
-
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 		<script src="sss/sss.min.js"></script>
 		<script>
@@ -62,6 +59,5 @@
 		</script>
 
 		</div><!--.container-->
-
 	</body>
 </html>
