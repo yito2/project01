@@ -22,13 +22,11 @@
 
 
 	<article class="column1">
-	
 
 		<h3>Regional Cuisines</h3>
 		
 		<figure>
 			<img src="images/chinesefood.jpg" alt="chinese food">
-			
 		</figure>
 		<p>
 		    A number of different styles contribute to Chinese cuisine but perhaps the best known and most influential are Cantonese cuisine, Shandong cuisine, Jiangsu cuisine (specifically Huaiyang cuisine) and Sichuan cuisine.[23][24][25] These styles are distinctive from one another due to factors such as availability of resources, climate, geography, history, cooking techniques and lifestyle.[26] One style may favour the use of lots of garlic and shallots over lots of chilli and spices, while another may favour preparing seafood over other meats and fowl.

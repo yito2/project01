@@ -45,16 +45,6 @@ h2 {
 
 }
 
-h3 {
-	text-align: center;
-
-}
-
-h4 {
-	text-align: center;
-
-}
-
 .column-value {
 	padding-bottom: 20px;
 	border-bottom: dotted 8px #b30000;
@@ -68,7 +58,8 @@ th {
 	color: white;
 }
 
-td, th {border-bottom: 1px solid #b30000;
+td, th {
+	border-bottom: 1px solid #b30000;
 	text-align: center;
 
 }
@@ -83,22 +74,15 @@ tbody tr:nth-child(1) {
    border: none;
 }
 
-
-
 footer {
-	margin: 0;
-	font-size: 13px;
 	padding: 5px;
-	background:orange;
+	background: orange;
 	vertical-align: middle;
 	text-align: center;
-	width:
-
-
 }
 
 body {
-	font-family:Georgia, serif;
+	font-family: Georgia, serif;
 	background-color: #fff9e6;
 }
 
@@ -110,47 +94,36 @@ ul{
 	list-style-type: square;
 	color:navy;
 	text-align:left;
-
-
-
 }
 
 ol {
 	background-color: teal;
-color:white;
-padding:10px;
-
+	color:white;
+	padding:10px;
 }
 
 
 .column1 {
-	width:48%;
+	width: 46%;
 	max-width: 400px;
 	float: left;
 	vertical-align: top;
 	background: #d9d9d9;
-	padding-left: 10px;
-	padding-right: 20px;
-	height: 1500px;
+	padding: 0 20px 0 10px;
 	text-align: justify;
-
 }
 
 article.column1 {
-	width:40%;
-
+	width: 40%;
 }
 
 .column2 {
-	width:46%;
+	width: 46%;
 	display: inline-block;
 	vertical-align: top;
-	padding: 10px;
 	background: #660000;
-	color: #fff9e6;;
-	padding-left: 10px;
-	padding-right: 10px;
-	height: 1480px;
+	color: #fff9e6;
+	padding: 0 10px;
 	margin-left: 70px;
 	text-align: justify;
 
@@ -162,9 +135,11 @@ article.column1 {
 }
 
 
-figure img {height:200px;
-	width: 200px;
-	padding-left: 70px;
+figure img {
+	height: 200px;
+	width:; 200px;
+	margin-right: 50px;
+	float: left;
 }
 
 figcaption {
