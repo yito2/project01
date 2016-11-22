@@ -1,38 +1,36 @@
-
 .column, .columns {
     margin:0;
 }
 
-
 .horizontal-nav ul {
-list-style-type: none;
-margin: 0;
-padding-bottom: 20px;
+	list-style-type: none;
+	margin: 0;
+	padding-bottom: 20px;
 }
 
 .horizontal-nav li {
-background: teal;
-color: white;
-display: inline;
-margin: 0;
-height: 38px;
-padding: 0;
+	background: teal;
+	color: white;
+	display: inline;
+	margin: 0;
+	height: 38px;
+	padding: 0;
 }
 
 .horizontal-nav a {
-background: teal;
-color:white;
-font-weight: bold;
-text-decoration: none;
+	background: teal;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 .horizontal-nav a:hover {
-background-color: #d9d9d9;
+	background-color: #d9d9d9;
 }
 
 .horizontal-nav .currentpage a {
-background: orange;
-color: black;
+	background: orange;
+	color: black;
 }
 
 .container {
@@ -101,6 +99,7 @@ footer {
 
 body {
 	font-family:Georgia, serif;
+	background-color: #fff9e6;
 }
 
 figure {
@@ -202,7 +201,7 @@ figcaption {
 
 .column-value3 {
 	background-color: #d9d9d9;
-	color:nav
+	color:nav;
 	padding: 10px;
 	margin:5px 0px;
 
