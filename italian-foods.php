@@ -22,7 +22,7 @@
 
 	<h3>Traditional Italian Foods</h3>
 
-	<article class="col-sm-6" id="section">
+	<div class="col-sm-6" id="section">
 		<img src="images/pizza.jpg" alt="pizza">
 		<p>
 
@@ -36,10 +36,10 @@
 			<strong>Risotto</strong> is a northern Italian rice dish cooked in a broth to a creamy consistency. The broth can be derived from meat, fish, or vegetables. Many types of risotto contain butter, wine, and onion. It is one of the most common ways of cooking rice in Italy. Risotto in Italy is normally a primo (first course), served on its own before the main course, but risotto alla milanese, (pronounced [riˈzɔtto alla milaˈneːze]), is often served together with ossobuco alla milanese.
 		</p>
 
-	</article>
+	</div>
 
 
-	<article class="col-sm-6" id="section">
+	<div class="col-sm-6" id="section">
 		<img src="images/minestrone.jpg" alt="minestrone">
 		<p>
 			<strong>Minestrone</strong> (/ˌmɪnᵻsˈtroʊni/; Italian: [mineˈstroːne]) is a thick soup of Italian origin made with vegetables, often with the addition of pasta or rice. Common ingredients include beans, onions, celery, carrots, stock, and tomatoes. There is no set recipe for minestrone, since it is usually made out of whatever vegetables are in season. It can be vegetarian, contain meat, or contain a meat-based broth (such as chicken stock). Angelo Pellegrini, however, argued that the base of minestrone is bean broth, and that borlotti beans (also called Roman beans) "are the beans to use for genuine minestrone".[1]
@@ -48,10 +48,11 @@
 		<p>
 			<strong>Tiramisu</strong> (from Italian, spelled tiramisù [tiramiˈsu], meaning "pick me up", "cheer me up", "wake me up" [1] or "lift me up") is a popular coffee-flavoured Italian dessert. It is made of ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, flavoured with cocoa. The recipe has been adapted into many varieties of cakes and other desserts.[2] Its origins are often disputed among Italian regions such as Veneto, Friuli Venezia Giulia, Piedmont, and others. Traditional tiramisu contains a short list of ingredients: finger biscuits, egg yolks, sugar, coffee, mascarpone cheese and cocoa powder. In the original recipe there is no liquor or egg whites. It was first made in Italy in the 1960s.
 		</p>
-	</article>
+	</div>
 
 
         <div class="Citations">
+	          <h4>Citations</h4>
 	              <ul>
 	                      <li>C., L., A., Mash, L., C., S., . . . D. (2006). Tiramisu II Recipe. Retrieved October 09, 2016, from<a href="https://en.wikipedia.org/wiki/Tiramisu">https://en.wikipedia.org/wiki/Tiramisu</a></li>
 

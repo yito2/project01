@@ -21,13 +21,9 @@
 
 	</section>
 
-		
-
-<h3>American Foods</h3>
-
 		<article class="col-sm-6" id="section">
 		     
-		     <h3>Cuisine Inspiration</h3>
+		     <h3>American Foods</h3>
 		     
 				<img src="images/american.jpg" alt="American food">
 		     <p>
