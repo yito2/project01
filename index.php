@@ -11,7 +11,7 @@
 
 		<?php include "inc/nav.inc"; ?>
 
-		<div class="hero-container">
+		<div class="hero-unit">
 			<div class="slider">
 				<img src="images/soup.jpg" alt="Soup">
 				<img src="images/arabic.jpg" alt="Arabic food">
